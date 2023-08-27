@@ -1,5 +1,7 @@
 <p align="center">
-  I'm tryin' to take the longest streak I can. <hr>
+  I'm tryin' to take the longest streak I can. <br>
+  - 26/8/23: I forgot to code and then lost my 40-day streak
+  <hr>
 </p>
 
 <table align="center">
