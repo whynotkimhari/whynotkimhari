@@ -9,7 +9,7 @@
     </td>
     <td>
       <p align="left">
-        <a href="https://github.com/whynotkimhari/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotkimhari&layout=compact&langs_count=10" alt ="Top Languages" width ="93%"/>
+        <a href="https://github.com/whynotkimhari/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotkimhari&layout=compact&langs_count=10&hide=Makefile,Batchfile" alt ="Top Languages" width ="93%"/>
         </a>
       </p>
     </td>
